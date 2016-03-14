@@ -77,6 +77,7 @@ set(CUFILES
 
 set(HFILES_PUBLIC
   ../../include/cudpp.h
+  ../../include/cudpp_config.h
   )
 
 source_group("CUDA Source Files" FILES ${CUFILES})
